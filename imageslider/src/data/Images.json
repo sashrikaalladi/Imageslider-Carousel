@@ -1,0 +1,25 @@
+{
+   "slides":[
+    {
+        "src":"https://picsum.photos/seed/picsum/600/400",
+        "alt":"This is first pic",
+        "name":"hello"
+    },
+    {
+        "src":"https://picsum.photos/600/400/?blur",
+        "alt":"This is third pic",
+        "name":"hello"
+    },
+    {
+        "src":"https://picsum.photos/seed/picsum/600/400",
+        "alt":"This is second pic",
+        "name":"hello"
+    },
+    {
+        "src":"https://picsum.photos/600/400/?blur=2",
+        "alt":"This is fourth pic", 
+        "name":"hello"
+    }
+   ]
+
+}
